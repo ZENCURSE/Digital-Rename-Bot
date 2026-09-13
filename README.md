@@ -19,12 +19,6 @@
 </p>
 
 
-### Sᴀᴍᴩʟᴇ Bᴏᴛ (Official Digital Rename Bot)
-
-* [Rkn_RenameBot](http://t.me/Rkn_RenameBot)
-* [Digital_Rename_Bot](http://t.me/Digital_Rename_Bot)
-
-
 ## Deploy Me 🥀
 
 <details><summary>📌 Deploy to Koyeb </summary>
